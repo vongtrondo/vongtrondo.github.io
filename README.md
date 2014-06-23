@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # csswizardry.com
 
 This is CSS Wizardry’s uncompiled Jekyll source code.
@@ -10,3 +11,7 @@ Despite being open sourced, all CSS Wizardry code and content remain copyright
 of Harry Roberts.
 
 <i>H</i>
+=======
+vongtrondo.github.io
+====================
+>>>>>>> 11d16900d3f6ede4307603b814648c4bc6541dae
