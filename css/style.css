@@ -258,7 +258,7 @@ h1, .alpha {
 
 h2, .beta {
 	font-size:30px;
-	font-size:1.875rem;
+	font-size:1.65rem;
 	line-height:1.6;
 }
 
@@ -1462,7 +1462,7 @@ body {
 
 .page-lead {
 	position:relative;
-	background-color:#f43059;
+	background-color:none;
 	text-shadow:0 -1px 0 rgba(0, 0, 0, 0.2);
 	padding-left:12px;
 	margin-left:-12px;
@@ -1497,7 +1497,7 @@ body {
 }
 
 }.page-lead, .page-lead__text {
-	color:#f9f9f9;
+	color:#628F09;
 }
 
 @media screen and (max-width: 640px) {
@@ -1804,8 +1804,8 @@ ol ol {
 }
 
 .post__title>a:hover, .post__title>a:active, .post__title>a:focus {
-	background-color:#f43059;
-	color:#fff;
+	background-color:none;
+	color:#859900;
 	text-decoration:none;
 }
 
@@ -2008,3 +2008,7 @@ ol ol {
 	background-color:#f43059;
 	color:#fff;
 }
+
+/** Custom CSS **/
+.divine {clear:both; width: 100%; border-bottom: 1px solid #eee; margin-bottom:24px }
+
