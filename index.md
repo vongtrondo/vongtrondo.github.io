@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Le Duy Quang
+title: Trang Chu
 page-class: page--home
 meta: "Harry Roberts’ past and upcoming speaking engagements"
 ---
@@ -25,114 +25,60 @@ with your team. If you would like to organise one of these then
   </figcaption>
 </figure>
 
-<h2>Upcoming events</h2>
+<h2>Web Design</h2>
 
 <ul class="block-list  landmark">
 
 	<li>
-        <h3 class="block-list__title">Talk &amp; Workshop</h3>
-		<i class="flag  flag--ro"></i> <a href="http://www.smartwebconf.com/">SmartWeb Conference</a>, Bucharest (Romania), September 2014
+        <h3 class="block-list__title">CSS/HTML/JS</h3>
+		<i class="alink"></i> <a href="http://halongtattoo.com/">Ha Long Tattoo</a><br>Trang giới thiệu clb xăm hình Hạ Long.
 	</li>
 
 	<li>
-        <h3 class="block-list__title">Talk</h3>
-		<i class="flag  flag--no"></i> <a href="http://trondheimdc.no/">Trondheim Developer Conference</a>, Trondheim (Norway), October 2014
+        <h3 class="block-list__title">CSS/HTML/JS</h3>
+		<i class="alink"></i> <a href="http://khanhninh.org/">Khanh Ninh Artist</a><br>Website cá nhân của chuyên gia làm đẹp Khánh Ninh.
 	</li>
 
 </ul>
 
-<h3>Previous events</h3>
+<h3>WordPress Development</h3>
 
 <ul class="block-list  block-list">
 
 	<li>
-        <h3 class="block-list__title">Talk</h3>
-		<i class="flag  flag--hr"></i> <a href="http://2014.thegeekgathering.org/">The Geek Gathering</a>, Osijek (Croatia), May 2014
+        <h3 class="block-list__title">WordPress</h3>
+		<i class="alink"></i> <a href="http://dieutribenhxahoi.com/" target="_blank">Bệnh Viện Nam Á - Khoa Da Liễu</a><br>Chuyên khoa da liễu bệnh xã hội thuộc bệnh viện Nam Á.
+	</li>
+	
+	<li>
+        <h3 class="block-list__title">WordPress</h3>
+		<i class="alink"></i> <a href="http://phukhoanama.net/#" target="_blank">Bệnh Viện Nam Á</a><br>Chuyên trang về phụ khoa thuộc bệnh viện nam Á.
+	</li>
+	
+	<li>
+        <h3 class="block-list__title">WordPress</h3>
+		<i class="alink"></i> <a href="http://namkhoanama.net/#" target="_blank">Bệnh Viện Nam Á</a><br>Chuyên trang nam khoa thuộc bệnh viện Nam Á.
+	</li>
+	
+	<li>
+        <h3 class="block-list__title">WordPress</h3>
+		<i class="alink"></i> <a href="http://benhvientri.com/#" target="_blank">Bệnh Viện Nam Á - Hậu Môn Trực Tràng</a><br>Website chuyên khoa hậu môn trực tràng thuộc bệnh viện Nam Á.
+	</li>
+	
+	<li>
+        <h3 class="block-list__title">WordPress</h3>
+		<i class="alink"></i> <a href="http://phongkhamdakhoaquocte.vn/#" target="_blank">Phòng Khám Đa Khoa Quốc Tế TP.HCM</a><br>Website của phòng khám đa khoa Quốc Tế TP.HCM.
 	</li>
 
-	<li>
-        <h3 class="block-list__title">Talk</h3>
-		<i class="flag  flag--uk"></i> <a href="http://dotyork.com/">DotYork</a>, York (UK), May 2014
-	</li>
+</ul>
+
+<h2>Open Source</h2>
+
+<ul class="block-list  opensource">
 
 	<li>
-        <h3 class="block-list__title">Talk</h3>
-		<i class="flag  flag--uk"></i> <a href="http://industryconf.com/">Industry Conf</a>, Newcastle (UK), April 2014
-	</li>
-
-	<li>
-        <h3 class="block-list__title">Talk &amp; Workshop</h3>
-		<i class="flag  flag--uk"></i> <a href="http://futureofwebdesign.com/london-2014/">Future of Web Design</a>, London (UK), April 2014
-	</li>
-
-	<li>
-        <h3 class="block-list__title">Workshop</h3>
-		<i class="flag  flag--uk"></i> <a href="http://www.eventhandler.co.uk/events/eventhandlerclass-cssarchitecture2">Event Handler</a>, London (UK), March 2014
-	</li>
-
-	<li>
-        <h3 class="block-list__title">Workshop</h3>
-		<i class="flag  flag--uk"></i> <a href="http://www.eventhandler.co.uk/events/eventhandlerclass-cssarchitecture">Event Handler</a>, London (UK), February 2014
-	</li>
-
-	<li>
-        <h3 class="block-list__title">Workshop</h3>
-		<i class="flag  flag--ch"></i> <a href="https://shop.smashingmagazine.com/smashing-workshop-planning-building-front-end-zurich.html">Smashing Workshop</a>, Zürich (Switzerland), December 2013
-	</li>
-
-	<li>
-        <h3 class="block-list__title">Workshop</h3>
-		<i class="flag  flag--uk"></i> <a href="http://makedo.in/leeds/css-workshop/">Make Do</a>, Leeds (UK), November 2013
-	</li>
-
-	<li>
-        <h3 class="block-list__title">Talk</h3>
-		<i class="flag  flag--uk"></i> <a href="http://www.hashtagtide.co/">#TIDE</a>, Scarborough (UK), October 2013
-	</li>
-
-	<li>
-        <h3 class="block-list__title">Talk &amp; Workshop</h3>
-		<i class="flag  flag--nl"></i> <a href="http://fronteers.nl/congres/2013">Fronteers</a>, Amsterdam (Netherlands), October 2013
-	</li>
-
-	<li>
-        <h3 class="block-list__title">Talk</h3>
-		<i class="flag  flag--de"></i> <a href="http://2013.cssconf.eu/">CSSconf.eu</a>, Berlin (Germany), September 2013
-	</li>
-
-	<li>
-        <h3 class="block-list__title">Talk</h3>
-		<i class="flag  flag--uk"></i> <a href="http://hey.wearestac.com/">Hey!Stac</a>, Leeds (UK), June 2013
-	</li>
-
-	<li>
-        <h3 class="block-list__title">Talk</h3>
-		<i class="flag  flag--de"></i> <a href="http://2013.beyondtellerrand.com/">Beyond Tellerrand</a>, Düsseldorf (Germany), May 2013
-	</li>
-
-	<li>
-        <h3 class="block-list__title">Talk</h3>
-		<i class="flag  flag--uk"></i> <a href="http://industryconf.com/">Industry Conf</a>, Newcastle (UK), April 2013
-	</li>
-
-	<li>
-        <h3 class="block-list__title">Talk</h3>
-		<i class="flag  flag--uk"></i> <a href="http://thedigitalbarn.co.uk/">Digital Barn</a>, Barnsley (UK), September 2012
-	</li>
-
-	<li>
-        <h3 class="block-list__title">Talk</h3>
-		<i class="flag  flag--uk"></i> <a href="http://2012.canvasconf.co.uk/">Canvas</a>, Birmingham (UK), September 2012
-	</li>
-
-	<li>
-        <h3 class="block-list__title">Talk</h3>
-		<i class="flag  flag--pl"></i> <a href="http://2012.front-trends.com/">Front-Trends</a>, Warsaw (Poland), April 2012
-	</li>
-
-	<li>
-        <h3 class="block-list__title">Talk</h3>
-		<i class="flag  flag--uk"></i> <a href="http://thedigitalbarn.co.uk/">Digital Barn</a>, Barnsley (UK), February 2012
+        <h3 class="block-list__title">JobberBase / Smarty</h3>
+		<i class="alink"></i> <a href="https://github.com/quangbahoa/Jobberbase-Bootstrap" target="_blank">Jobberbase Template</a><br>Giao diện được phân phối nguồn mở cho mã nguồn Jobberbase viết theo Bootstrap Toolkit trên nền Smarty template.
 	</li>
 
 </ul>
