@@ -1431,7 +1431,6 @@ body {
 	margin-right:auto;
 	margin-left:auto;
 	padding-right:24px;
-	padding-left:24px;
 }
 
 @media only screen and (max-width: 939px) {
@@ -2011,4 +2010,4 @@ ol ol {
 }
 
 /** Custom CSS **/
-.divine {clear:both; width: 100%; border-bottom: 1px solid #eee; margin-bottom:24px }
+#divine {clear:both; width: 100%; border-bottom: 1px solid #eee; margin-bottom:24px }

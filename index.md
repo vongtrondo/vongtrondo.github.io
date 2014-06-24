@@ -5,16 +5,13 @@ page-class: page--home
 meta: "Harry Roberts’ past and upcoming speaking engagements"
 ---
 
-# Speaking and workshops
+<h1 id="about-section">Đôi lời</h1>
 
-I speak about—and run workshops covering—big CSS, its architecture, and writing
-it in large teams on large products in a performant manner that scales. If you
-would like me to speak or run a workshop at one of your events, please
-<a href="mailto:harry@csswizardry.com">drop me a line</a>.
+Công việc chính của tôi là thiết kế website dựa trên nền tảng nguồn mở WordPress - OpenCart, Magento hay PrestaShop.
 
-I also run private workshops, where I come into your offices and get hacking
-with your team. If you would like to organise one of these then
-<a href="mailto:harry@csswizardry.com">fire me an email</a>.
+Tuy không giỏi lập trình nhưng thiết kế giao diện người dùng là thế mạnh của tôi. Nếu bạn đang tìm một người thiết kế giao diện web/cms/shopping cart.
+
+Ngoài ra tôi có thể khởi tạo, quản lý tài khoản Adwords.
 
 <figure>
   <!-- <img src="/img/content/speaking.jpg" alt=""> -->
@@ -25,17 +22,17 @@ with your team. If you would like to organise one of these then
   </figcaption>
 </figure>
 
-<h2>Web Design</h2>
+<h2 id="work-section">Web Design</h2>
 
 <ul class="block-list  landmark">
 
 	<li>
-        <h3 class="block-list__title">CSS/HTML/JS</h3>
+        <h3 class="block-list__title">CSS / HTML / JS</h3>
 		<i class="alink"></i> <a href="http://halongtattoo.com/">Ha Long Tattoo</a><br>Trang giới thiệu clb xăm hình Hạ Long.
 	</li>
 
 	<li>
-        <h3 class="block-list__title">CSS/HTML/JS</h3>
+        <h3 class="block-list__title">CSS / HTML / JS</h3>
 		<i class="alink"></i> <a href="http://khanhninh.org/">Khanh Ninh Artist</a><br>Website cá nhân của chuyên gia làm đẹp Khánh Ninh.
 	</li>
 
@@ -82,3 +79,19 @@ with your team. If you would like to organise one of these then
 	</li>
 
 </ul>
+
+<h1 id="contact-section">Contact</h1>
+
+<dl>
+
+    <dt>Email: <a href="mailto:info@leduyquang.com?Subject=Chao Le Duy Quang">info@leduyquang.com</a></dt>
+    
+    <dt>Twitter: <a href="https://twitter.com/quangbahoa">@quangbahoa</a></dt>
+    
+    <dt>Github: <a href="https://github.com/quangbahoa">#quangbahoa</a></dt>
+    
+    <dt>Google+: <a href="http://plus.google.com/115015981130426720556">+LeDuyQuang</a></dt>
+
+</dl>
+
+Vui lòng sử dụng một trong những kênh trên để liên hệ với tôi. Tôi khuyến nghị sử dụng Email để liên lạc được nhanh chóng và an toàn.
